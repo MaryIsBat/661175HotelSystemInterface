@@ -20,6 +20,10 @@ This interface enables users to interact with hotel management features through:
 - Robust backend processing powered by Java
 - Streamlined workflows for common hotel operations
 
+## Access the Interface
+
+You can access the hotel simulator interface here: [Hotel Simulator](https://github.com/MaryIsBat/661175HotelSystemInterface/blob/main/hotel_simulator.html)
+
 ## Getting Started
 
 1. Ensure you have Java installed on your system
@@ -33,7 +37,7 @@ This is a modified interface from a group project, redesigned from the ground up
 
 ## License
 
-[Add your license information here]
+This project is free to use with permission. As this is code from academic study, please ensure proper attribution and contact the author for usage rights.
 
 ## Contributors
 
